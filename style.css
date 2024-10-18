@@ -1,0 +1,38 @@
+body{
+    background-color: aquamarine;
+    margin: 0%;
+}
+.header{
+    width: auto;
+    height: 150px;
+    background-color: rgb(150, 150, 27);
+}
+.content-one{
+    width: auto;
+    height: auto;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.block{
+    width: 250px;
+    height: 250px;
+    border: 1px solid;
+    background-color: chartreuse;
+    margin-bottom: 40px;
+    margin: 30px;
+}
+.b1{
+    background-color: coral;
+
+}
+.b2{
+    background-color: cornflowerblue;
+}
+.b3{
+    background-color: darkseagreen;
+}
+.b4{
+    background-color: darkred;
+}
